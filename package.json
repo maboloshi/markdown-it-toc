@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/maboloshi/markdown-it-toc"
+        "url": "git+https://github.com/maboloshi/markdown-it-toc.git"
     },
     "keywords": [
         "markdown",
@@ -22,13 +22,13 @@
     },
     "homepage": "https://github.com/maboloshi/markdown-it-toc",
     "devDependencies": {
-		"markdown-it": "^14.1.0",
-		"markdown-it-testgen": "^0.1.6",
-		"coveralls": "^3.1.1",
-		"eslint": "^9.25.1",
-		"eslint-plugin-nodeca": "^1.0.3",
-		"istanbul": "^0.4.5",
-		"mocha": "^11.1.0"
+        "markdown-it": "^14.1.0",
+        "markdown-it-testgen": "^0.1.6",
+        "coveralls": "^3.1.1",
+        "eslint": "^9.25.1",
+        "eslint-plugin-nodeca": "^1.0.3",
+        "istanbul": "^0.4.5",
+        "mocha": "^11.1.0"
     },
     "dependencies": {}
 }
